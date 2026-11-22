@@ -2,7 +2,7 @@
 
 > Empresa i dades **fictícies**, material de formació. No s'han de fer servir com a política d'una empresa real.
 > Les dades tècniques surten de `fitxa_tecnica_INOXVALL_VP316.pdf` (Drive › INOXVALL_demo).
-> Els camps marcats amb `[PENDENT]` no consten a cap font: s'han d'omplir abans de fer servir la skill. Mentre siguin buits, la skill els ha de tractar com a dada absent.
+> Preus, descomptes i condicions comercials: **valors de demostració inventats** (no surten de cap document).
 
 ## Empresa
 
@@ -13,20 +13,20 @@
 
 ## Tarifa aprovada
 
-Moneda: `[PENDENT]` (p. ex. EUR) · Vigència de la tarifa: `[PENDENT]`
+Moneda: EUR · Vigència de la tarifa: 1 de gener – 31 de desembre de 2026 · Preus sense IVA, EXW Catalunya
 
 ### VP-316 · Vàlvula de papallona sanitària
 
 | Referència | DN | Connexió | Accionament | Preu de tarifa unitari |
 |---|---|---|---|---|
-| VP-316-25 | DN25 | Clamp / soldar | Maneta manual | `[PENDENT]` |
-| VP-316-40 | DN40 | Clamp / soldar | Maneta manual | `[PENDENT]` |
-| VP-316-50 | DN50 | Clamp / soldar | Maneta manual | `[PENDENT]` |
-| VP-316-65 | DN65 | Clamp / soldar | Maneta manual | `[PENDENT]` |
-| VP-316-80 | DN80 | Clamp / soldar | Maneta manual | `[PENDENT]` |
-| VP-316-100 | DN100 | Clamp / soldar | Maneta manual | `[PENDENT]` |
+| VP-316-25 | DN25 | Clamp / soldar | Maneta manual | 68,00 |
+| VP-316-40 | DN40 | Clamp / soldar | Maneta manual | 82,00 |
+| VP-316-50 | DN50 | Clamp / soldar | Maneta manual | 95,00 |
+| VP-316-65 | DN65 | Clamp / soldar | Maneta manual | 124,00 |
+| VP-316-80 | DN80 | Clamp / soldar | Maneta manual | 148,00 |
+| VP-316-100 | DN100 | Clamp / soldar | Maneta manual | 189,00 |
 
-Suplements (per unitat): actuador pneumàtic `[PENDENT]` · juntes de silicona `[PENDENT]` · juntes FKM `[PENDENT]`.
+Suplements (per unitat): actuador pneumàtic +145,00 · juntes de silicona +6,00 · juntes FKM +12,00. Mateix preu per a clamp o per soldar.
 
 Productes no inclosos en aquesta tarifa (connexions, bombes, filtres): **no consten**. Qualsevol petició d'aquests productes queda pendent de preu.
 
@@ -34,11 +34,11 @@ Productes no inclosos en aquesta tarifa (connexions, bombes, filtres): **no cons
 
 | Condició | Descompte màxim |
 |---|---|
-| Distribuïdor estàndard | `[PENDENT]` % |
-| Per volum (a partir de `[PENDENT]` unitats o `[PENDENT]` import) | `[PENDENT]` % |
+| Distribuïdor estàndard | 15 % |
+| Per volum (comanda ≥ 50 unitats o ≥ 5.000 EUR nets) | +5 % addicional |
 
-- Límit màxim que l'equip comercial pot aplicar sense aprovació: `[PENDENT]` %.
-- Els descomptes **no són acumulables** si no s'indica el contrari: `[PENDENT — confirmar]`.
+- Límit màxim que l'equip comercial pot aplicar sense aprovació: 20 % total.
+- Els descomptes **no són acumulables** més enllà del que es descriu: el de volum se suma al de distribuïdor fins al límit del 20 %.
 - Qualsevol descompte per sobre del límit: **PENDENT DE VALIDAR PER DIRECCIÓ COMERCIAL**.
 
 ## Especificacions tècniques confirmades (VP-316)
@@ -59,15 +59,15 @@ Productes no inclosos en aquesta tarifa (connexions, bombes, filtres): **no cons
 | Condició | Valor | Font |
 |---|---|---|
 | Termini de lliurament | 2 setmanes (mides estàndard) | Fitxa tècnica |
-| Termini mides no estàndard o opcions | `[PENDENT]` | — |
-| Incoterm per defecte | `[PENDENT]` (p. ex. EXW o FCA) | — |
-| Ports / transport | `[PENDENT]` | — |
-| Forma de pagament | `[PENDENT]` | — |
-| Validesa de l'oferta | `[PENDENT]` dies | — |
-| Garantia | `[PENDENT]` | — |
+| Termini mides no estàndard o opcions | 4-6 setmanes | Demo |
+| Incoterm per defecte | EXW Catalunya (altres Incoterms: pendent de pressupost logístic) | Demo |
+| Ports / transport | No inclosos | Demo |
+| Forma de pagament | Transferència a 30 dies data factura; clients nous, 50 % per avançat | Demo |
+| Validesa de l'oferta | 30 dies | Demo |
+| Garantia | 24 mesos per defectes de fabricació | Demo |
 | Recanvis | Disponibles durant 10 anys | Fitxa tècnica |
-| Comanda mínima | `[PENDENT]` | — |
-| Impostos | `[PENDENT]` (p. ex. IVA no inclòs) | — |
+| Comanda mínima | 500 EUR nets | Demo |
+| Impostos | IVA no inclòs | Demo |
 
 ## Documentació disponible
 
