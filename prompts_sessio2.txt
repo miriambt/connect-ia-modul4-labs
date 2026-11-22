@@ -1,0 +1,56 @@
+PROMPTS DE LA SESSIÓ 2 · EINES D'IA PER A L'EXPORTACIÓ · CONNECT-IA
+Totes les dades són fictícies (INOXVALL, VistulaTech, Lattetec). Copieu el text entre cometes «...» sense les cometes.
+
+======================================================================
+Pràctica 4 · Pregunteu al vostre Drive
+Pregunta del client: «Els clients em pregunten dades tècniques i he d'esperar que respongui l'oficina tècnica. Puc tenir la resposta al moment?» (Laia Soler · Comercial internacional)
+----------------------------------------------------------------------
+@Google Drive Busca la fitxa de la vàlvula VP-316 a la carpeta INOXVALL demo i fes-me una taula amb les mides, la pressió màxima, la temperatura de treball i els materials. Indica de quin arxiu ho treus.
+
+Segona petició:
+Redacta en anglès 3 avantatges per a un distribuïdor a partir d'aquesta fitxa
+
+======================================================================
+Pràctica 5 · Llegiu i responeu un correu
+Pregunta del client: «Rebem peticions d'oferta en anglès i tardem dies a contestar. Com podem donar una primera resposta el mateix dia?» (Marta Puig · Export Manager)
+----------------------------------------------------------------------
+@Gmail Busca el correu de VistulaTech sobre les vàlvules VP-316. Resumeix-me què demanen i què em falta per poder respondre. Després prepara un esborrany de resposta en anglès que agraeixi la petició i digui que enviarem l'oferta en 48 hores.
+
+======================================================================
+Pràctica 6 · Agendeu el seguiment
+Pregunta del client: «Enviem ofertes i després ens oblidem de fer-ne el seguiment. Com ho automatitzem?» (Laia Soler · Comercial internacional)
+----------------------------------------------------------------------
+@Google Calendar Crea un esdeveniment dimarts vinent a les 10 h, de 30 minuts, amb el títol «Trucada VistulaTech · oferta VP-316» i, a la descripció, un resum de la petició del client.
+
+======================================================================
+Pràctica 8 · Instal·leu una skill de GitHub
+Pregunta del client: «Tornem de cada fira amb desenes de contactes i el seguiment arriba tard. Com ho fem més ràpid?» (Laia Soler · Comercial internacional)
+----------------------------------------------------------------------
+Fes el resum d'aquesta reunió a la fira i prepara'n el seguiment. Notes: Giulia Ferri, compres de Lattetec Srl (Itàlia, empresa fictícia), línies de làctics. Interès en VP-316 DN65 i DN80, unes 150 unitats l'any. Demana el certificat 3.1. El seu proveïdor alemany falla en els terminis. Vol una videotrucada la setmana vinent.
+
+Segona petició (amb Gmail connectat):
+Deixa el correu de seguiment com a esborrany a @Gmail
+
+======================================================================
+Pràctica 9 · Proveu una skill d'empresa
+Pregunta del client: «Cada comercial fa les ofertes a la seva manera i de vegades s'equivoca amb preus i descomptes. Ho podem controlar?» (Jordi Vila · Director general)
+----------------------------------------------------------------------
+Prepara una oferta per a un distribuïdor de França: 300 vàlvules VP-316 DN25, lliurament DAP Lió.
+
+Segona petició:
+El client vol un 25 % de descompte
+
+======================================================================
+Pràctica 10 · Creeu la vostra skill
+Pregunta del client: «Hi ha processos que només sé fer jo. Com ho fem perquè l'equip els pugui fer igual de bé?» (Marta Puig · Export Manager)
+----------------------------------------------------------------------
+Fes servir skill-creator per crear una skill per a [procés]. Som una pime exportadora de [producte]. Fes-me les preguntes que necessitis sobre els passos, el format i les regles. Quan acabis, prepara-la perquè la pugui instal·lar. No hi incloguis cap dada confidencial.
+
+Si no s'activa:
+Millora la descripció perquè s'activi quan diem [paraules que fa servir l'equip]
+
+======================================================================
+Pràctica 11 · El circuit complet
+Pregunta del client: «Volem automatitzar tot el procés, de la petició del client a l'oferta i el seguiment. Com ho fem?» (Jordi Vila · Director general)
+----------------------------------------------------------------------
+Llegeix a @Gmail el correu de VistulaTech. Prepara l'oferta amb la skill oferta-internacional. Desa-la com a document a la carpeta INOXVALL demo de @Google Drive, prepara a @Gmail un esborrany de resposta amb l'oferta i crea a @Google Calendar una trucada de seguiment d'aquí a una setmana. Abans de cada acció, ensenya-m'ho.

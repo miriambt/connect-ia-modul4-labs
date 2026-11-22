@@ -1,0 +1,20 @@
+MATERIALS DE LA SESSIÓ 2 · EINES D'IA PER A L'EXPORTACIÓ · CONNECT-IA
+Divendres 30 d'octubre de 2026 · Online · 9:30 a 14:00
+
+1. Guia_participant_Sessio2_Connect-IA.pdf
+   Tots els passos de les 11 pràctiques, les taules de seguretat i les skills recomanades. Tingueu-la oberta durant la sessió.
+2. prompts_sessio2.txt
+   Els textos per copiar i enganxar a ChatGPT, pràctica per pràctica.
+3. fitxa_tecnica_INOXVALL_VP316.pdf
+   Fitxa del producte que pujareu al vostre Google Drive personal (pràctica 2).
+4. correu_peticio_VistulaTech.txt
+   Petició d'oferta que us enviareu a vosaltres mateixos per Gmail (pràctica 2).
+5. Carpeta «Skills per pujar a ChatGPT»
+   oferta-internacional.zip (pràctica 9) i call-summary.zip (pràctica 8). No cal obrir els ZIP: es pugen tal qual a ChatGPT › Plugins › Skills › Crea › Puja des de l'ordinador.
+   A la subcarpeta «Skills recomanades» hi ha quatre skills més per provar després de la sessió.
+
+Abans de començar, tingueu a punt: un compte de ChatGPT (gratuït) i un compte PERSONAL de Google (Gmail, Drive i Calendar), no el de l'empresa.
+
+Totes les dades són fictícies (INOXVALL, VistulaTech, Lattetec i les persones). Les skills de GitHub són originals d'Anthropic amb llicència Apache 2.0; cada ZIP inclou MODIFICACIONS.txt.
+
+Dubtes: nil.montserrat@connectin.cat · Connect-IA: ia@connectin.cat · 937 457 810
